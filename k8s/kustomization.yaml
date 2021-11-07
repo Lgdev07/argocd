@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: lgdev07/argocd
-  newTag: 9ddae6676a4a43a9edf993662de4e8e7c3367879
+  newTag: 33cac63015c46c6090af1ef566802e85564d2009
